@@ -32,7 +32,11 @@ management
 
 ## Publications and Projects
 **Question Modifiers in Visual Question Answering (_LREC 2022_)**
+
 **FedEx Problems and Incidents Data Science Project (_UMRF 2020_)**
+
 **UN General Assembly Statements Analysis (_University of Memphis 2018_)**
+
 **Go Board State Evaluation (_University of Memphis 2018_)**
+
 **Tiger Trails Mapping Application (_University of Memphis 2018_)**
