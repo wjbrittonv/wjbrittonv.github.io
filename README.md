@@ -24,7 +24,7 @@ management
 - Developed, managed and maintained gitlab repositories for data collection systems
 - Prepared statistical metrics for presentation to FedEx leadership
 
-**Languages Across Cultures Lab @ The University of Memphis (_August 2017 - Dec 2018_)
+**Languages Across Cultures Lab @ The University of Memphis (_August 2017 - Dec 2018_)**
 - Assembled data mining and web scraping scripts for collection of large text datasets
 - Performed ETL including NLP tools for processing text data
 - Derived research findings using Linguistic Inquiry and Word Count (LIWC) text analysis
