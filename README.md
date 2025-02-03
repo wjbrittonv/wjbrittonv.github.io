@@ -32,11 +32,21 @@ management
 
 ## Publications and Projects
 **Question Modifiers in Visual Question Answering (_LREC 2022_)**
+- William Britton, Somdeb Sarkhel, Deepak Venugopal
+- [http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.158.pdf](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.158.pdf)
 
 **FedEx Problems and Incidents Data Science Project (_UMRF 2020_)**
+- Exploratory Data Analysis, Model Creation and Evaluation
+- Tools Used: Python, Jupyter Notebooks, Powerpoint
 
 **UN General Assembly Statements Analysis (_University of Memphis 2018_)**
+- Data Mining, text cleaning and preprocessing, statistical Inference
+- Tools Used: Python, Bash, LIWC, Stata
 
 **Go Board State Evaluation (_University of Memphis 2018_)**
+- Genetic algorithm and simulated annealing
+- Tools Used: C++, Python
 
 **Tiger Trails Mapping Application (_University of Memphis 2018_)**
+- Back-end / Fastest Route Finding Algorithm
+- Tools Used: Java
